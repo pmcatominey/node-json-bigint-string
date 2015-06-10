@@ -1,0 +1,29 @@
+{
+  "name": "json-bigint-string",
+  "version": "0.0.0",
+  "description": "Replacement for JSON.parse which converts long integers to strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/lab/bin/lab test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pmcatominey/node-json-bigint-string.git"
+  },
+  "keywords": [
+    "node",
+    "json",
+    "bigint",
+    "js"
+  ],
+  "author": "Peter McAtominey",
+  "license": "public",
+  "bugs": {
+    "url": "https://github.com/pmcatominey/node-json-bigint-string/issues"
+  },
+  "homepage": "https://github.com/pmcatominey/node-json-bigint-string",
+  "devDependencies": {
+    "code": "^1.4.0",
+    "lab": "^5.10.0"
+  }
+}
