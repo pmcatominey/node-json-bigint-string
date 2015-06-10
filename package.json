@@ -1,6 +1,6 @@
 {
   "name": "json-bigint-string",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Replacement for JSON.parse which converts long integers to strings",
   "main": "index.js",
   "scripts": {
