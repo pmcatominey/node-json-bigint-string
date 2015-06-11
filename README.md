@@ -1,5 +1,7 @@
 ## json-bigint-string
 
+[![Build Status](https://travis-ci.org/pmcatominey/node-json-bigint-string.svg)](https://travis-ci.org/pmcatominey/node-json-bigint-string)
+
 Drop in replacement for JSON.parse which converts integers long enough to lose
 precision in Javascript into strings.
 
